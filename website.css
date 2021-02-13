@@ -1,0 +1,155 @@
+body {
+    font-family: "Avenir Next";
+  }
+  
+  li {
+    list-style: none;
+  }
+  
+  .header {
+    background-color: #26d0c9;
+    color: #fff;
+    height: 90px;
+  }
+  
+  .header-logo {
+    float: left;
+    font-size: 36px;
+    padding: 20px 40px;
+  }
+  
+  .header-list li {
+    float: left;
+    padding: 33px 20px;
+  }
+  
+  .main {
+    padding: 100px 80px;
+  }
+  
+  .copy-container h1 {
+    font-size: 140px;
+  }
+  
+  .copy-container h2 {
+    font-size: 60px;
+  }
+  
+  .copy-container span {
+    color: #26d0c9;
+  }
+
+  .copy-container span1{
+      color: lightskyblue;
+      font-family: serif;
+  }
+
+
+  
+  .contents {
+    height: 500px;
+    margin-top: 100px;
+    
+  }
+  
+
+  
+  .section-title {
+    border-bottom: 2px solid #dee7ec;
+    font-size: 28px;
+    padding-bottom: 15px;
+    margin-bottom: 50px;
+  }
+  
+  .contents-item {
+    float: left;
+    margin-right: 20px;
+  }
+
+  .contents-item span4{
+      font-size: 30px;
+      color: hotpink;
+      font-family: monospace;
+
+  }
+
+  .contents-item span5{
+    font-size: 28px;
+    color: crimson;
+    font-family: monospace;
+
+}
+.contents-item span6{
+    font-size: 28px;
+    color: blue;
+    font-family: monospace;
+
+}
+.contents-item span7{
+    font-size: 30px;
+    color: chocolate;
+    font-family: monospace;
+
+}
+  .contents-item img{
+      height: 280px;
+      width: 220px;
+  }
+  
+  .contents-item p {
+    font-size: 20px;
+    margin-top: 30px;
+    text-align: center;
+    
+  }
+
+  
+  .contact-form {
+    padding-top: 100px;
+    border-top: #889eab;
+  }
+  .contents-item p{
+      font-family: fantasy;
+      color: #889eab;
+      font-size: large;
+  }
+  
+  /* inputとtextareaのCSSを指定してください */
+  input,textarea{
+    width:400px;
+    margin-top:10px;
+    margin-bottom:30px;
+    padding:20px;
+    font-size:18px;
+    
+    border:1px solid #dee7ec;
+  }
+  
+  /* contact-submitのCSSを指定してください */
+  .contact-submit{
+    background:#dee7ec;
+    color:#889eab;
+    
+    
+  }
+  
+  .footer {
+    background-color: #2f5167;
+    color: #fff;
+    height: 120px;
+    padding: 40px;
+  }
+  
+  .footer-logo {
+    float: left;
+    font-size: 32px;
+  }
+  
+  .footer-list {
+    float: right;
+  }
+  
+  .footer-list li {
+    padding-bottom: 20px;
+  }
+  
